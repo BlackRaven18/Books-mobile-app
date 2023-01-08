@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
       marginTop: 0,
       marginBottom: 0,
       marginRight: 150,
-      textAlign: 'flex-start',
+      textAlign: 'left',
     },
  mytextb:{
        height: 30,

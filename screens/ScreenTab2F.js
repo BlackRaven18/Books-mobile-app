@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
       marginHorizontal: 20,
     },
     sview: {
-       flexDirection: 'row',
+        flexDirection: 'row',
     },
 
   image: {
@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
           marginTop: 1,
     },
   loginText:{
-    placeholderTextColor: "#FFFFFF",
+     placeholderTextColor: "#FFFFFF",
   },
 
   mytext:{
@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
       marginTop: 0,
       marginBottom: 0,
       marginRight: 150,
-      textAlign: 'flex-start',
+      textAlign: 'left',
     },
  mytextb:{
        height: 30,
